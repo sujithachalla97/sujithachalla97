@@ -10,7 +10,7 @@
 
 ## 💫 About Me  
 🚀 Passionate **Computer Science student (Graduating 2026)**, full-stack developer, and problem solver.  
-🌍 I build products, crack complex problems, and contribute to open-source and communities like **IEEE WiE**.  
+🌍 I build products, crack problems, and contribute to Projects and part of communities like **IEEE WiE**.  
 
 - 🎓 **CS Undergrad (2026)** | Infosys Springboard Intern | Amazon ML Summer School 2025  
 - 💻 **Tech Stack:** MERN (React, Node.js, Express, MongoDB) | C++ | Python | TailwindCSS | Bootstrap  
@@ -42,14 +42,14 @@
 ---
 
 ## 🏆 Achievements  
-- ✅ Intern @ **Infosys Springboard**  
+- ✅ Intern @ **Infosys Springboard**  - December 2024
 - 🎓 Participant @ **Amazon ML Summer School 2025**  
 - 🎤 Active in **IEEE WiE** leadership & initiatives  
 - 💡 Hackathon participant & open-source contributor
 - 
 ---
 ## 📈 Projects Showcase  
-- 🌍 **Travel Guide App** – MERN app for personalized travel planning  
+- 🌍 **Travel Guide App** – MEAN app for personalized travel planning  
 - 🏥 **Medical Appointment Platform** – Full-stack booking and management system
 - 🌐 **IEEE SB NBKRIST Website** – Official student branch website connecting students and fostering community  
 
