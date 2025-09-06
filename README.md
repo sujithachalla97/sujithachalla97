@@ -48,19 +48,21 @@
 - ✅ Intern @ **Infosys Springboard**  
 - 🎓 Participant @ **Amazon ML Summer School 2025**  
 - 🎤 Active in **IEEE WiE** leadership & initiatives  
-- 💡 Hackathon participant & open-source contributor  
-
-</td>
-<td width="50%" valign="top">
-
+- 💡 Hackathon participant & open-source contributor
+- 
+---
 ## 📈 Projects Showcase  
 - 🌍 **Travel Guide App** – MERN app for personalized travel planning  
-- 🏥 **Medical Appointment Platform** – Full-stack booking and management system  
-- 📊 **Bank Loan Management System (Backend)** – Loan lending, payments, ledger APIs  
+- 🏥 **Medical Appointment Platform** – Full-stack booking and management system
+- 🌐 **IEEE SB NBKRIST Website** – Official student branch website connecting students and fostering community  
+
 
 👉 *[Explore all projects here](https://github.com/sujithachalla97?tab=repositories)*  
 
 ---
+
+</td>
+<td width="50%" valign="top">
 
 ## 📊 GitHub Stats  
 <div align="center">
