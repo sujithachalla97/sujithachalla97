@@ -84,12 +84,7 @@
   <a href="https://linkedin.com/in/saisujithakumarichalla">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-  </a>
-  <a href="mailto:saisujithakumarichalla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
+ 
 </p>
 
 </td>
